@@ -1,0 +1,42 @@
+c:\users\alex\documents\visual studio 2015\Projects\newfriday\newfriday\bin\Debug\newfriday.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\bin\Debug\newfriday.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\bin\Debug\newfriday.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\MainView.g.cs
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\App.g.cs
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday_MarkupCompile.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday_MarkupCompile.lref
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\MainView.baml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.g.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\bin\Debug\newfriday.exe.config
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\MainView.g.cs
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\App.g.cs
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday_MarkupCompile.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday_MarkupCompile.lref
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\bin\Debug\newfriday.exe
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\bin\Debug\newfriday.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\MainView.baml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.g.resources
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.Properties.Resources.resources
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\newfriday\newfriday\obj\Debug\newfriday.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\bin\Debug\newfriday.exe.config
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\newfriday.exe
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\newfriday.pdb
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\bin\Debug\newfriday.exe
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\bin\Debug\newfriday.pdb
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\newfriday.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\MainView.g.cs
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\newfriday_MarkupCompile.cache
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\newfriday_MarkupCompile.lref
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\MainView.baml
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\newfriday.g.resources
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\newfriday.Properties.Resources.resources
+C:\Users\Alex\Desktop\newfriday\newfriday\newfriday\obj\Debug\newfriday.csproj.GenerateResource.Cache
